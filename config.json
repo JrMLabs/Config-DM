@@ -1,7 +1,7 @@
 {
-  "url": "https://spoke-anticipated-owen-powered.trycloudflare.com",
+  "url": "https://jrmlabs.github.io/Config-DM/dm",
   "online": true,
-  "updated_at": "2026-09-03T08:50:00Z",
+  "updated_at": "2026-09-03T09:10:00Z",
   "authorization": {
     "schema": 1,
     "enabled": true,
@@ -10,5 +10,11 @@
       "enabled": false,
       "token": ""
     }
+  },
+  "dm": {
+    "available": false,
+    "status": "fichier absent",
+    "version": 0,
+    "updated_at": "2026-09-03T09:10:00Z"
   }
 }
