@@ -1,25 +1,25 @@
 {
   "url": "https://jrmlabs.github.io/Config-DM/dm",
   "online": true,
-  "updated_at": "2026-09-03T19:40:47Z",
+  "updated_at": "2026-09-03T19:47:58Z",
   "authorization": {
     "schema": 1,
     "enabled": true,
     "licenses": [
-      "92da638e9bf962be2954f537ce97abc9240bf073f68f56eb88892261b674763f"
+      "634f8b9d99b0a2873f0cb1cf3a739fd15c40eb5ce98ceb08c3c25092d9cc8023"
     ],
     "joker": {
       "enabled": true,
       "token": "ed4dc53f37333c719e5eda1adbe2a03b1247e44919c3cc121ea54d4f0cf04fce"
     },
     "license_names": {
-      "92da638e9bf962be2954f537ce97abc9240bf073f68f56eb88892261b674763f": "v1:S4XPk52nyoz8L0Yys1faZtzV-0g-_jB5CwFAWRxdrDYQeYI0"
+      "634f8b9d99b0a2873f0cb1cf3a739fd15c40eb5ce98ceb08c3c25092d9cc8023": "v1:P3di1zMjubMZcW3PMqHCjG8_sVvv8klWwjOk9lm-NN4wjcJ5"
     },
     "license_app_names": {
-      "92da638e9bf962be2954f537ce97abc9240bf073f68f56eb88892261b674763f": "v1:MzJpJncquJwYx9Oz66w6n63azRI1S303wthjgunVq9diH8p7"
+      "634f8b9d99b0a2873f0cb1cf3a739fd15c40eb5ce98ceb08c3c25092d9cc8023": "v1:IUei8S67wE9K4x1Q8knLvU4Bg3x_yipObg9h1X3c_mqhyL03"
     },
     "license_uuids": {
-      "92da638e9bf962be2954f537ce97abc9240bf073f68f56eb88892261b674763f": "v1:BmqCqjs7avv8tBdlbXmH8kqeOj6kIB0PIwe1EfjaKdOLdBVYgMOOMp2Fs1FBgoBPWUCnDulhtd03NQAzMQdiCA=="
+      "634f8b9d99b0a2873f0cb1cf3a739fd15c40eb5ce98ceb08c3c25092d9cc8023": "v1:fOsAcZCqSssvYwLLeSv947fAQS7Kft4slr6KGDtf5H0l5T9noYqk7viRnebYIqZP3PSoNWDMs4f4bc5I4zor0g=="
     }
   },
   "dm": {
