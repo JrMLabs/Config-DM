@@ -1,8 +1,8 @@
 {
-  "available": true,
-  "status": "disponible",
+  "available": false,
+  "status": "fichier absent",
   "version": 1,
   "file": "documentation.enc",
-  "sha256": "0f4c6d4edd767453b74e9b0ce72fb973c434ff25ec1a4c293427a5dff27a6198",
-  "updated_at": "2026-09-03T15:29:11Z"
+  "sha256": "",
+  "updated_at": "2026-09-03T15:35:28Z"
 }
