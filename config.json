@@ -1,18 +1,26 @@
 {
   "url": "https://jrmlabs.github.io/Config-DM/dm",
   "online": true,
-  "updated_at": "2026-09-03T19:39:48Z",
+  "updated_at": "2026-09-03T19:40:47Z",
   "authorization": {
     "schema": 1,
     "enabled": true,
-    "licenses": [],
+    "licenses": [
+      "92da638e9bf962be2954f537ce97abc9240bf073f68f56eb88892261b674763f"
+    ],
     "joker": {
       "enabled": true,
       "token": "ed4dc53f37333c719e5eda1adbe2a03b1247e44919c3cc121ea54d4f0cf04fce"
     },
-    "license_names": {},
-    "license_app_names": {},
-    "license_uuids": {}
+    "license_names": {
+      "92da638e9bf962be2954f537ce97abc9240bf073f68f56eb88892261b674763f": "v1:S4XPk52nyoz8L0Yys1faZtzV-0g-_jB5CwFAWRxdrDYQeYI0"
+    },
+    "license_app_names": {
+      "92da638e9bf962be2954f537ce97abc9240bf073f68f56eb88892261b674763f": "v1:MzJpJncquJwYx9Oz66w6n63azRI1S303wthjgunVq9diH8p7"
+    },
+    "license_uuids": {
+      "92da638e9bf962be2954f537ce97abc9240bf073f68f56eb88892261b674763f": "v1:BmqCqjs7avv8tBdlbXmH8kqeOj6kIB0PIwe1EfjaKdOLdBVYgMOOMp2Fs1FBgoBPWUCnDulhtd03NQAzMQdiCA=="
+    }
   },
   "dm": {
     "available": true,
