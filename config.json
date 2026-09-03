@@ -1,14 +1,14 @@
 {
   "url": "https://jrmlabs.github.io/Config-DM/dm",
   "online": true,
-  "updated_at": "2026-09-03T13:02:07Z",
+  "updated_at": "2026-09-03T13:02:57Z",
   "authorization": {
     "schema": 1,
     "enabled": true,
     "licenses": [],
     "joker": {
-      "enabled": false,
-      "token": ""
+      "enabled": true,
+      "token": "ed4dc53f37333c719e5eda1adbe2a03b1247e44919c3cc121ea54d4f0cf04fce"
     },
     "license_names": {}
   },
