@@ -1,7 +1,7 @@
 {
   "url": "https://jrmlabs.github.io/Config-DM/dm",
   "online": true,
-  "updated_at": "2026-09-03T12:14:57Z",
+  "updated_at": "2026-09-03T12:38:33Z",
   "authorization": {
     "schema": 1,
     "enabled": true,
@@ -10,7 +10,7 @@
     ],
     "joker": {
       "enabled": false,
-      "token": "a4198f5f05ad0c13a72646d20fa59631a3f311183cb50e3014f032de7869267b"
+      "token": ""
     }
   },
   "dm": {
