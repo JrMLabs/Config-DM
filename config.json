@@ -1,7 +1,7 @@
 {
   "url": "https://jrmlabs.github.io/Config-DM/dm",
   "online": true,
-  "updated_at": "2026-09-15T11:04:04Z",
+  "updated_at": "2026-09-15T11:17:22Z",
   "authorization": {
     "schema": 1,
     "enabled": true,
@@ -16,7 +16,7 @@
   },
   "dm": {
     "available": true,
-    "version": "3",
-    "updated_at": "2026-09-15T11:04:04Z"
+    "version": "5",
+    "updated_at": "2026-09-15T11:17:22Z"
   }
 }
